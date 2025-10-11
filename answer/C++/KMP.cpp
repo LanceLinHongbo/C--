@@ -1,3 +1,4 @@
+// https://github.com/LanceLinHongbo/C--/blob/master/answer/C%2B%2B/KMP.cpp
 import std;
 
 constexpr int alphSize = 3;
